@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Outfit";
+  src: url("../assets/fonts/outfit/Outfit-VariableFont_wght.ttf") format("truetype");
+  font-weight: 400 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Young Serif";
+  src: url("../assets/fonts/young-serif/YoungSerif-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2 {
+  font-family: "Young Serif", serif;
+}
+
+td {
+  padding: 12px 0;
+}
+
+@theme {
+  --font-outfit: "Outfit", sans-serif;
+  --font-young-serif: "Young Serif", serif;
+
+  --color-stone-100: #F3E5D8;
+  --color-stone-150: #E6E2DD;
+  --color-stone-600: #58534C;
+  --color-stone-900: #2A2624;
+  --color-brown-800: #854632;
+  --color-rose-800: #7B284F;
+  --color-rose-50: #FFF5FA;
+}
