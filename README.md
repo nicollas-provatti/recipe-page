@@ -30,8 +30,8 @@ Esta é a minha solução para o [Desafio da Página de Receitas no Frontend Men
 
 ### 🔗 Links
 
-- URL da Solução: [Add solution URL here](https://your-solution-url.com)
-- URL do site ativo: [Add live site URL here](https://your-live-site-url.com)
+- URL da Solução: [Add solution URL here](https://github.com/nicollas-provatti/recipe-page)
+- URL do site ativo: [Add live site URL here](https://nicollas-provatti.github.io/recipe-page/)
 
 ---
 
