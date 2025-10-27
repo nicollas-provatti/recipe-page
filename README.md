@@ -26,12 +26,12 @@ Esta é a minha solução para o [Desafio da Página de Receitas no Frontend Men
 
 ### 🖼️ Captura de Tela
 
-![alt text](preview.jpg)
+![captura de tela](design/preview.jpg)
 
 ### 🔗 Links
 
-- URL da Solução: [Add solution URL here](https://github.com/nicollas-provatti/recipe-page)
-- URL do site ativo: [Add live site URL here](https://nicollas-provatti.github.io/recipe-page/)
+- URL da Solução: [aqui](https://github.com/nicollas-provatti/recipe-page)
+- URL do site ativo: [aqui](https://nicollas-provatti.github.io/recipe-page/)
 
 ---
 
